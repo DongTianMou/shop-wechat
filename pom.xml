@@ -71,5 +71,6 @@
         <module>shop-api</module>
         <module>shop-eureka-server</module>
         <module>shop-member</module>
+        <module>shop-common-utils</module>
     </modules>
 </project>
